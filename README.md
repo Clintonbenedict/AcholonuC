@@ -17,7 +17,7 @@ Entry-Level Data Analyst
 - Car sales tracking 
 - Household income and expense tracking
 
- ### Tools
+### Tools
  
  - Microsoft Office Suite (Word, Excel, PowerPoint)
  - Google Workspace (Docs, Sheets, Drive, Gmail)
