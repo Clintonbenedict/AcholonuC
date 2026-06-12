@@ -8,8 +8,8 @@ Data Analysis Cerification
 Entry-Level Data Analyst
 
 ### Projects
-sales tracking
-Household income and expense tracking
+- sales tracking
+- Household income and expense tracking
 
 
 
